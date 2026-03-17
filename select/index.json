@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "S.S",
+  "base_artist": "パスピエ",
+  "createdAt": "2026-03-17T22:31:22.537648Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "M.I.S.S. I",
+      "artist": "LL Cool J",
+      "has_synced": false,
+      "path": "select/01_M.I.S.S._I_LL_Cool_J.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "M.I.S.S. I [*]",
+      "artist": "LL Cool J",
+      "has_synced": false,
+      "path": "select/02_M.I.S.S._I_[_]_LL_Cool_J.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "S.S.C. / Stand or Fall",
+      "artist": "Anthrax",
+      "has_synced": true,
+      "path": "select/03_S.S.C.___Stand_or_Fall_Anthrax.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "S.S.C. \u0000 Stand or Fall",
+      "artist": "Anthrax",
+      "has_synced": true,
+      "path": "select/04_S.S.C._\u0000_Stand_or_Fall_Anthrax.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "S.U.C.C.E.S.S.",
+      "artist": "Holly Johnson",
+      "has_synced": false,
+      "path": "select/05_S.U.C.C.E.S.S._Holly_Johnson.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "3 AM Eternal - Live at the S.S.L",
+      "artist": "The KLF",
+      "has_synced": false,
+      "path": "select/06_3_AM_Eternal_-_Live_at_the_S.S.L_The_KLF.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "3 A.M. Eternal (live at the S.S.L./7\" Radio Freedom edit)",
+      "artist": "The KLF",
+      "has_synced": false,
+      "path": "select/07_3_A.M._Eternal_(live_at_the_S.S.L._7__Radio_Freedom_edit)_The_KLF.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "3 A.M. Eternal (Live At The S.S.L.\u00007' Radio Freedom Edit)",
+      "artist": "The KLF",
+      "has_synced": false,
+      "path": "select/08_3_A.M._Eternal_(Live_At_The_S.S.L.\u00007'_Radio_Freedom_Edit)_The_KLF.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "3AM Eternal - Live at the S.S.L.",
+      "artist": "The KLF",
+      "has_synced": false,
+      "path": "select/09_3AM_Eternal_-_Live_at_the_S.S.L._The_KLF.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "P.R.E.S.S.",
+      "artist": "Atari Teenage Riot",
+      "has_synced": false,
+      "path": "select/10_P.R.E.S.S._Atari_Teenage_Riot.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Back In the U.S.S.R.",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/11_Back_In_the_U.S.S.R._The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Back In The U.S.S.R",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/12_Back_In_The_U.S.S.R_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Back in the U.S.S.R.",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/13_Back_in_the_U.S.S.R._The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "K.I.S.S.E.S",
+      "artist": "Bent",
+      "has_synced": false,
+      "path": "select/14_K.I.S.S.E.S_Bent.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "K.I.S.S.E.S.",
+      "artist": "Bent",
+      "has_synced": false,
+      "path": "select/15_K.I.S.S.E.S._Bent.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "M.I.S.S.I.S.S.I.P.P.I.",
+      "artist": "Big K.R.I.T.",
+      "has_synced": true,
+      "path": "select/16_M.I.S.S.I.S.S.I.P.P.I._Big_K.R.I.T..lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "S-S-S-Single Bed",
+      "artist": "Bananarama",
+      "has_synced": true,
+      "path": "select/17_S-S-S-Single_Bed_Bananarama.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "S‐s‐s‐single Bed",
+      "artist": "Bananarama",
+      "has_synced": true,
+      "path": "select/18_S‐s‐s‐single_Bed_Bananarama.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "S.S",
+      "artist": "パスピエ",
+      "has_synced": false,
+      "path": "select/pl_01_S.S_パスピエ.txt"
+    }
+  ]
+}
